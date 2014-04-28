@@ -8,7 +8,7 @@
 <!-- Topic: Title slide -->
 
 <img style="max-height: 300px;" src="images/cugos_gear.png">
-<h2>Open Source GIS</h2>
+<h1>Open Source GIS</h1>
 <h3>A case study (me!)</h3>
 <p>
     <small>Aaron Racicot - <a href="mailto:aaronr@z-pulley.com">aaronr@z-pulley.com</a>
@@ -24,6 +24,10 @@
 <!------------------------------------------------------------>
 --SLIDE--
 <!-- Topic: Introduce myself -->
+
+<h1>People are computer literate when they understand software is not a product</h1>
+
+--SUBSLIDE--
 
 <h1>Who I am?</h1>
 
