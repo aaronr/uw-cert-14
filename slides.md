@@ -49,15 +49,22 @@
 <!-- Topic: Introduce not only NOAA, but ORR as well -->
 <!-- Topic: Why I am here... DWH and ERMA+TEAM -->
 
+<h2>Day Job - NOAA</h2>
 <img src="images/orr.png">
 
 --SUBSLIDE--
 
-<h2>The <span style="color:#ff0000;">Deepwater Horizon</span> experience</h2>
+<h2>Fun Job - CUGOS</h2>
+<img src="images/cugos_gear.png">
 
 <!------------------------------------------------------------>
 --SLIDE--
 <!-- Topic: ERMA intro -->
+
+<h2>The <span style="color:#ff0000;">Deepwater Horizon</span> experience</h2>
+<img style="max-height: 500px;" src="images/rig.png">
+
+--SUBSLIDE--
 
 <h1>Our little project...</h1>
 
@@ -81,13 +88,6 @@
 
 <!------------------------------------------------------------>
 --SLIDE--
-<!-- Topic: Lead in to DWH -->
-
-<img style="max-height: 500px;" src="images/rig.png">
-<h1>DWH</h1>
-
-<!------------------------------------------------------------>
---SLIDE--
 <!-- Topic: DWH Stats -->
 
 <h1>DWH - By the numbers</h1>
@@ -99,9 +99,7 @@
 * 400+ controlled burns
 * 4+ million feet of containment boom and 9+ million feet of sorbent boom
 
-<!------------------------------------------------------------>
---SLIDE--
-<!-- Topic: DWH in images -->
+--SUBSLIDE--
 
 <img style="max-height: 550px;" src="images/dwh_burning.png">
 
@@ -131,9 +129,7 @@
 * 30-40 specifically ERMA (up from 4 normally)
 * 3 ERMA developers
 
-<!------------------------------------------------------------>
---SLIDE--
-<!-- Topic: How ERMA shines as COP -->
+--SUBSLIDE--
 
 <h1>ERMA Shines as <span style="color:#ff0000;">COP</span></h1>
 <ul>
@@ -144,9 +140,7 @@
   <li><strong>Public ERMA – over 20 million hits in 24 hours!</strong></li>
 </ul>
 
-<!------------------------------------------------------------>
---SLIDE--
-<!-- Topic: ERMA Shines as the COP -->
+--SUBSLIDE--
 
 <h2>Common Operational Picture (COP)</h2>
 <img style="max-height: 550px;" src="images/ops.jpg">
@@ -198,9 +192,7 @@
 
 <h2>So how/why does this matter to you?</h2>
 
-<!------------------------------------------------------------>
---SLIDE--
-<!-- Topic: The key is the philosophy -->
+--SUBSLIDE--
 
 <h2>The nuts and bolts might not...</h2>
 <h1><span style="color:#ff0000;">the philosophy does</span></h1>
@@ -227,8 +219,77 @@
 --SLIDE--
 <!-- Topic: A byproduct, not the reason... it saves money -->
 
-<h1>Doing more with less</h1>
+<h1><span style="color:#ff0000;">Doing more with less</span></h1>
 <h2>(This is a good investment for NOAA)</h2>
+
+
+<!------------------------------------------------------------>
+--SLIDE--
+<!-- Topic: Wrapup -->
+<h2>My Story</h2>
+<hr>
+<h3>\* Dev turned Environmental Scientist \*</h3>
+<h3>\* Many turn from Sciences to Devs \*</h3>
+<hr>
+<h2>Key is that we all meet in the middle!</h2>
+
+--SUBSLIDE--
+
+<h2><span style="color:#ff0000;">Open Source GIS</span> is a</h2>
+<h2>great <span style="color:#ff0000;">path</span> to bridge the gap</h2>
+
+<!------------------------------------------------------------>
+--SLIDE--
+<!-- Topic: Advice -->
+<h1>My Advice</h1>
+<hr>
+<h2><span style="color:#ff0000;">Dev chops</span> are the <span style="color:#ff0000;">differentiator</span></h2>
+
+--SUBSLIDE--
+
+<h2>My kids are learning Python...
+<img style="max-height: 450px;" src="images/kids.jpg">
+<h2>in 1st grade!</h2>
+
+
+--SUBSLIDE--
+
+<h2>Choose a stack and become an expert</h2>
+<hr>
+<ul>
+  <li><strong>(os) Linux</strong></li>
+  <li><strong>(database) Postgresql/PostGIS</strong></li>
+  <li><strong>(render) Mapserver/Mapnik</strong></li>
+  <li><strong>(cache) TileCache/TileStache</strong></li>
+  <li><strong>(frontend) MapBox/Leaflet/OpenLayers</strong></li>
+</ul>
+<hr>
+<h2>All the rest are an easy jump</h2>
+
+--SUBSLIDE--
+
+<h2>Learn to code... and script...</h2>
+<hr>
+<ul>
+  <li><strong>(backend) Shell Scripting, Python, Javascript</strong></li>
+  <li><strong>(frontend) Javascript, HTML, CSS</strong></li>
+  <li><strong>(code management) GIT/GitHub</strong></li>
+</ul>
+<hr>
+<h2>All the rest are an easy jump</h2>
+
+--SUBSLIDE--
+
+<h1>Build Cool Stuff</h1>
+<img style="max-height: 500px;" src="images/bboxfinder.png">
+
+--SUBSLIDE--
+
+<h1>Come to CUGOS!!!</h1>
+<a href="http://cugos.org">cugos.org</a>
+<hr>
+<img style="max-height: 300px;" src="images/cugos_meeting.jpg">
+
 
 <!------------------------------------------------------------>
 --SLIDE--
