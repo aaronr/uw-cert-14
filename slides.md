@@ -273,7 +273,8 @@
 <ul>
   <li><strong>(backend) Shell Scripting, Python, Javascript</strong></li>
   <li><strong>(frontend) Javascript, HTML, CSS</strong></li>
-  <li><strong>(code management) GIT/GitHub</strong></li>
+  <li><strong>(code management) GIT, GitHub</strong></li>
+  <li><strong>(editing) Emacs, VIM<strong></li>
 </ul>
 <hr>
 <h2>All the rest are an easy jump</h2>
